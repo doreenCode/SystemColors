@@ -8,7 +8,7 @@ iOS Systems colors
 Programmatically create a simple view to show the available system colors
  
  * UIView 
- * UILalel 
+ * UILabel 
  * Layers 
  
  
