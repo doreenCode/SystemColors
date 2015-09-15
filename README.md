@@ -13,5 +13,5 @@ Programmatically create a simple view to show the available system colors
  
  
 ##### System Colors Screen
-![alt tag](https://cloud.githubusercontent.com/assets/5943800/9666518/6ff1a1ca-522b-11e5-955e-965231ea93c8.png)
+![alt tag](https://cloud.githubusercontent.com/assets/5943800/9890595/aa75059c-5bb5-11e5-88f3-770db2f9cf58.png)
 
