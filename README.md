@@ -9,7 +9,8 @@ Programmatically create a simple view to show the available system colors
  
  * UIView 
  * UILabel 
- * Layers 
+ * layer.borderColor 
+ * layer.borderWidth 
  
  
 ##### System Colors on Simulator
